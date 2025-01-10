@@ -1,0 +1,206 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 200px;
+    left: 0;
+    top: 0;
+    align-items: center;
+    padding: 24px 160px 24px 160px;
+}
+
+.hi {
+    color: rgb(14, 14, 14);
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.fi {
+    width: 116px;
+    height: 52px;
+    padding: 15px 15px 15px 15px;
+    border-radius: 8px;
+
+
+}
+
+.fi a {
+    color: rgb(0, 106, 80);
+    font-size: 18px;
+    font-weight: 600;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 10px;
+    padding: 5px 5px;
+
+}
+
+.idea {
+    position: static;
+    width: 1280px;
+    height: 560px;
+    padding: 80px 100px 0px 100px;
+
+    border-radius: 10px;
+
+    margin: 120px 120px;
+    border-radius: 10px;
+    /* text-align: center; */
+    display: flex;
+    border-radius: 24px;
+    background: rgb(198, 228, 214);
+
+}
+
+.one {
+    color: rgba(14, 14, 14, 0.5);
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 29px;
+    text-align: left;
+}
+
+.two {
+    color: rgb(14, 14, 14);
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 67px;
+}
+
+.btn-i {
+    width: 270px;
+    height: 56px;
+    gap: 48;
+    padding: 17px 34px 17px 34px;
+    margin: 24px 0px;
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+}
+
+.im1 {
+    width: 500px;
+    height: 450px;
+    left: 3100px;
+
+}
+
+.logos {
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 10px 20px 80px;
+}
+
+.digital {
+    border-radius: 16px;
+    background: rgba(84, 144, 245, 0.2);
+    width: 370px;
+    height: 325px;
+    margin: 0px 24px;
+    padding: 32px;
+    gap: 24;
+}
+
+.green {
+    border-radius: 16px;
+    background: rgb(198, 228, 214);
+    width: 370px;
+    height: 325px;
+    margin: 0px 24px;
+    padding: 32px;
+    gap: 24;
+}
+
+.mordern {
+    border-radius: 16px;
+    background: rgb(247, 235, 207);
+    width: 370px;
+    height: 325px;
+    margin: 0px 24px;
+    padding: 32px;
+    gap: 24;
+
+}
+
+.vi {
+    font-size: 40px;
+    font-weight: 700;
+    margin: 50px 0px 20px 120px;
+    gap: 32;
+}
+
+.si {
+    margin: 0px 10px 20px 120px;
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.di {
+
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 25px;
+    font-weight: 700;
+    text-align: left;
+
+
+}
+
+.gi {
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 70px;
+    text-align: left;
+}
+
+.bn2 {
+    border-radius: 8px;
+    background: rgb(84, 144, 245);
+    width: 122px;
+    height: 41px;
+    padding: 11px 20px 11px 20px;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-size: 15px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.bn3{
+    border-radius: 8px;
+    background: rgb(9, 161, 92);
+    width: 122px;
+    height: 41px;
+    padding: 11px 20px 11px 20px;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-size: 15px;
+    font-weight: 400;
+    cursor: pointer;
+}  
+
+.bn4{
+    border-radius: 8px;
+    background: rgb(255, 194, 57);
+    width: 122px;
+    height: 41px;
+    padding: 11px 20px 11px 20px;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    font-size: 15px;
+    font-weight: 400;
+    cursor: pointer;
+    /* transition: all 0.3s ease; */
+}
+
+.bnx:hover  {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
