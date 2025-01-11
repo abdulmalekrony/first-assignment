@@ -1,3 +1,13 @@
+
+.fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-style: normal;
+  }
+
+
+
+
+
 nav {
     display: flex;
     align-items: center;
@@ -371,3 +381,128 @@ nav a {
     font-weight: 700;
     cursor: pointer;
 }
+
+main input[type="text"] {
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    /* display: block; */
+    position: static;
+    width: 1032px;
+    height: 64px;
+    align-items: center;
+    gap: 24;
+    padding: 20px 40px 20px 40px;
+    margin-top: 50px;
+    border: none;
+    background-color: rgb(243, 240, 235);
+    margin-left: 300px;
+    margin-bottom: 30px;
+    color: rgba(14, 14, 14, 0.3);
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.btn10 {
+    margin-left: 750px;
+    cursor: pointer;
+}
+
+.bn10 {
+    width: 270px;
+    height: 56px;
+    gap: 48;
+    padding: 17px 34px 17px 34px;
+    margin: 24px 0px;
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+footer .free {
+    border-radius: 24px;
+    background: rgb(34, 47, 41);
+    border-radius: 24px;
+    background: rgb(198, 228, 214);
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+    height: 250px;
+    gap: 64;
+    padding: 80px 100px 80px 100px;
+    margin-left: 250px;
+
+}
+
+.subscription-box {
+    display: flex;
+    margin-left: 300px;
+    margin-right: 200px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.email-input {
+    border: none;
+    padding: 10px;
+    flex-grow: 1;
+    font-size: 16px;
+    outline: none;
+    color: #dfb9b9;
+    border-radius: 8px;
+}
+
+.subscribe-button {
+    background-color: #006d50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border-radius: 8px;
+}
+
+.fir {
+    margin-left: 400px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 48px;
+}
+
+.sir {
+    margin-left: 250px;
+    margin-right: 100px;
+    align-items: center;
+    text-align: center;
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.fin {
+    margin-left: 450px;
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+}
+.finim{
+    margin-left: 800px;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+}
+
+.ses{
+    font-size: 32px;
+font-weight: 700;
+margin-left: 750px;
+margin-bottom: 50px;
+}
+.finim a {
+    margin-right: 20px;}
